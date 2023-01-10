@@ -2,3 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+.slick-prev{
+    left: 3% !important;
+    z-index: index 1;
+}
+
+.slick-next{
+    left: 3% !important;
+    z-index: index 1;
+}
