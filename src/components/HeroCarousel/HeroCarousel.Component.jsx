@@ -98,7 +98,7 @@ const HeroCarousel =() =>{
         </HeroSlider>
     </div>
     </>
-);
+  );
 };
 
-export default HeroCarousel
+export default HeroCarousel;
